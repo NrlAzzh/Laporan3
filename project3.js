@@ -1,3 +1,3 @@
-var price1 = 12;
-var price2 = 5;
-var total = price1 + price2;
+var harga1 = 12;
+var harga2 = 5;
+var total = harga1 + harga2;
